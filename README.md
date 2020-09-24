@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/Milfist/quarkus-demo/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+
 # users project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
