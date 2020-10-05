@@ -22,3 +22,11 @@ jobs:
         java-version: 11
     - name: Build with Maven
       run: mvn -B package --file pom.xml
+
+    - name: Codecov
+      uses: codecov/codecov-action@v1.0.13
+      with:
+          name: Quarkus
+          token: ${{secrets.CC_REPORTER_ID}}
+          file: ${{github.workspace}}/target/site/jacoco/jacoco.xml
+          flags: unittests
