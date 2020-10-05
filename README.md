@@ -1,4 +1,4 @@
-![Java CI with Maven](https://github.com/Milfist/quarkus-demo/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+![Java CI with Maven](https://github.com/Milfist/quarkus-demo/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master) [![codecov](https://codecov.io/gh/Milfist/quarkus-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/Milfist/quarkus-demo)
 
 # users project
 
